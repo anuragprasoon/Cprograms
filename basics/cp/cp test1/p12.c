@@ -1,4 +1,4 @@
-/*Q12 */
+/*Q12 4*/
 #include <stdio.h>
 void main(){
     int a,b;

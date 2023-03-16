@@ -1,3 +1,4 @@
+//Q7
 #include <stdio.h>
 void main(){
     int a,b,c,d;
@@ -8,6 +9,4 @@ void main(){
     printf("\n %d",b);
     printf("\n %d",c);
     printf("\n %d",d);
-
-
 }
