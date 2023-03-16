@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676427257 source:c:\prasooncodes\c programs\howtoc\main.c
+	<stdio.h>
+	<stdlib.h>
+
