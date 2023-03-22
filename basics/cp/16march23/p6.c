@@ -1,5 +1,7 @@
 #include <stdio.h>
+#include <conio.h>
 void main(){
+clrscr();
 int year;
 printf("enter a year: ");
 scanf("%d",&year);
