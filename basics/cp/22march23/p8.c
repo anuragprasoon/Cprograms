@@ -1,3 +1,4 @@
+/* q8) */
 #include <stdio.h>
 void main(){
 printf("\nAll Odd No.s\n");

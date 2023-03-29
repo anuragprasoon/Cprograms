@@ -1,3 +1,4 @@
+/* q7) */
 #include <stdio.h>
 void main(){
 int i=532;

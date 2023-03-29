@@ -1,3 +1,6 @@
+/*wap to acceppt a positive no. and print the digit into word using switch case*/
+
+
 #include <stdio.h>
 void main(){
     int n,d,r;
@@ -9,4 +12,7 @@ void main(){
         n/=10;
     }
     printf("%d",r);
+    while(r!=0){
+        r%
+    }
 }

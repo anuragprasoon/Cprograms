@@ -1,3 +1,4 @@
+/*q3) */
 #include <stdio.h>
 void main(){
 int i=25;

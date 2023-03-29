@@ -1,3 +1,4 @@
+/* q4) */
 #include <stdio.h>
 void main(){
 int n;
