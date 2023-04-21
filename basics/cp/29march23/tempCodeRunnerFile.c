@@ -1,17 +1,14 @@
 #include<stdio.h>
 void main(){
-    int i,j,n;
-    n=4;
-    for(i=1;i<=n;i++){
-        for(j=1;j<=n-i;j++){
-            printf(" ");
+    int i,j;
+    char ch='A';
+    for(i=1;i<=5;i++){
+        char ch='A';
+        for(j=1;j<=i;j++){
+            printf("%c ",ch);
+            ch+=1;
         }
-        for(int k=1;k<=i;k++){
-            printf("%d",k);
-        }
-        for(int m=i-1;m>=1;m--){
-            printf("%d",m);
-        }
+        
         printf("\n");
     }
 }

@@ -12,7 +12,7 @@ int main(){
         arr[i]=r;
         x=x/2;
     }
-    printf("The binary conversion of %d is \t",x);
+    printf("The binary conversion of %d is \t",y);
     for (i--;i>=0;i--){
         printf("%d",arr[i]);
 

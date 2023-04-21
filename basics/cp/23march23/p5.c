@@ -7,7 +7,7 @@ void main()
     printf("enter the no. of terms: ");
     scanf("%d",&n);
     for(int i=1;i<=n;i+=1){
-        printf("%d ",a);
+        printf("%d \n",a);
         c=a;
         a+=b;
         b=c;
