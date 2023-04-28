@@ -1,6 +1,6 @@
 /*wap to take a string and replace character with a new character and print the new string*/
 #include <stdio.h>
-#include <string.h>
+#include <string.h>a
 
 int main() {
     char str[100];
