@@ -30,6 +30,8 @@
   ],
   "C_Cpp.errorSquiggles": "disabled",
   "files.associations": {
-    "P2.C": "cpp"
+    "P2.C": "cpp",
+    "P5.C": "cpp",
+    "P3.C": "cpp"
   }
 }
